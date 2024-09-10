@@ -1,11 +1,11 @@
 
 p
 {
-    color:red(30, 38, 110, 0.541);font-size: large;font-weight: bolder; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red(30, 38, 110, 0.541);font-size: large;font-weight: bolder; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 } 
 body{background-color: blue(17, 70, 35, 0.466);}
 
 div
 {
-    max-width: 500px;
+    max-width: 700px;
 }
